@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\buildMultiTargeting\research-netReact.Server.props" />
+  <Import Project="../buildMultiTargeting/research-netReact.Server.props" />
 </Project>
