@@ -1,2 +1,1 @@
-C:/Users/bruno/code/research-netReact/research-netreact.client/obj/Debug/research-netreact.client.esproj.CoreCompileInputs.cache
 /home/bruno/code/research-netReact/research-netreact.client/obj/Debug/research-netreact.client.esproj.CoreCompileInputs.cache
