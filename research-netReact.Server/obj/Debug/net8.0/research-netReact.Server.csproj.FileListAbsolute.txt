@@ -31,6 +31,8 @@
 /home/bruno/code/research-netReact/research-netReact.Server/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.research-netReact.Server.props
 /home/bruno/code/research-netReact/research-netReact.Server/obj/Debug/net8.0/staticwebassets.pack.json
 /home/bruno/code/research-netReact/research-netReact.Server/obj/Debug/net8.0/scopedcss/bundle/research-netReact.Server.styles.css
-/home/bruno/code/research-netReact/research-netReact.Server/obj/Debug/net8.0/research-netReact.Server.csproj.CopyComplete
 /home/bruno/code/research-netReact/research-netReact.Server/obj/Debug/net8.0/research-netReact.Server.genruntimeconfig.cache
 /home/bruno/code/research-netReact/research-netReact.Server/obj/Debug/net8.0/ref/research-netReact.Server.dll
+/home/bruno/code/research-netReact/research-netReact.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/bruno/code/research-netReact/research-netReact.Server/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/bruno/code/research-netReact/research-netReact.Server/obj/Debug/net8.0/research.F4E01737.Up2Date

@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:61666",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "/home/bruno/code/research-netReact/research-netReact.Server/../research-netreact.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
