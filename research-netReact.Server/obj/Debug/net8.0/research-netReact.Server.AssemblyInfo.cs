@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("research-netReact.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36a795753a59c89a8c11b1559c3a77c80da634b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5f80a2ae65f135cbb8b72de335e9229115e7d5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("research-netReact.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("research-netReact.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
