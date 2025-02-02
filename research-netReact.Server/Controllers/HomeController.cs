@@ -23,7 +23,7 @@ namespace research_netReact.Server.Controllers
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
-                Date = "None",
+                Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
                 TemperatureC = 1,
                 Summary = "Test"
             })
