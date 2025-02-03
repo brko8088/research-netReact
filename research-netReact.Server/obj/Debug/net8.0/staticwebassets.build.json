@@ -1,23 +1,24 @@
 {
   "Version": 1,
-  "Hash": "t6qnqbVWu3kfRNjGcQOaFUUHmVituOQiiSG/PPekmoY=",
+  "Hash": "9dPOc5fKeMZAGNqD9DfxdRCZ97exCXChyFxGC8OeHWY=",
   "Source": "research-netReact.Server",
   "BasePath": "_content/research-netReact.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "/home/bruno/code/research-netReact/research-netreact.client/research-netreact.client.esproj",
+      "Identity": "C:\\Users\\bruno\\code\\research-netReact\\research-netreact.client\\research-netreact.client.esproj",
       "Version": 2,
       "Source": "research-netreact.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
-      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
-      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

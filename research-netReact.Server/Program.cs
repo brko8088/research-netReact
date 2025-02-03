@@ -1,5 +1,5 @@
 // using Server.Models;
-
+using Microsoft.EntityFrameworkCore;
 using research_netReact.Server.Data;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -10,8 +10,7 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<TodoContext>(options =>
-    options.UseSqlite("Data Source=todo.db"));
+builder.Services.AddDbContext<TodoContext>(options => options.UseSqlite("Data Source=todo.db"));
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAll", policy =>
