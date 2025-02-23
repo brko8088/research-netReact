@@ -1,5 +1,6 @@
 .vs
 .github
+.fake
 
 research-netReact.Server/obj/
 research-netReact.Server/bin/
